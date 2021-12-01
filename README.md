@@ -8,4 +8,4 @@ It commonly saves programmers hours or days of work.
 <h1> Installation </h1>
 <li>pip install bs4</li>
 <li>pip install BeautifulSoup</li>
-pip install requests
+<li>pip install requests</li>
