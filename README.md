@@ -6,6 +6,6 @@ It works with your favorite parser to provide idiomatic ways of navigating, sear
 It commonly saves programmers hours or days of work.
 
 <h1> Installation </h1>
-pip install bs4
-pip install BeautifulSoup
+<li>pip install bs4</li>
+<li>pip install BeautifulSoup</li>
 pip install requests
